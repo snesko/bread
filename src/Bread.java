@@ -9,6 +9,7 @@ public class Bread {
 		//This is the test class
 		//Made some changes
 		Flour flour = new Flour();
+		Water water = new Water();
 
 	}
 
