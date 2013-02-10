@@ -1,14 +1,11 @@
 
-public class Bread {
+public class Flour {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//This is the test class
-		//Made some changes
-		Flour flour = new Flour();
 
 	}
 
